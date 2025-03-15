@@ -1,2 +1,2 @@
-# trisquare
+# Trisquare
 Trisquare is a visual algorithm. 

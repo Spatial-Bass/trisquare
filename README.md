@@ -1,2 +1,2 @@
 # Trisquare
-Trisquare is a visual algorithm. 
+Trisquare is an free, open-source visual algorithm.
